@@ -1,3 +1,7 @@
 li {
     display: inline;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    padding-left: 15px;
 }
