@@ -1,4 +1,4 @@
-body, p {
+.main {
     font-family: Arial, sans-serif;
     font-size: 13px;
     color: black;
@@ -35,5 +35,5 @@ nav .topright {
 }
 
 .center {
-    align-content: center;
+text-align: center;
 }
