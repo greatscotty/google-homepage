@@ -4,16 +4,18 @@ ul {
     padding-left: 15px;
 }
 
-a :hover{
-    text-decoration: underline;
-}
 
 a {
     text-decoration: none;
 }
 
+a :hover{
+    text-decoration: underline;
+}
 
-li a {
+
+
+li {
     display: inline;
     color: black;
 }
