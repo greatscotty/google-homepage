@@ -4,7 +4,7 @@ body, p {
 }
 
 li {
-    display: inline-block;
+    display: inline;
     color: black;
 }
 
@@ -13,7 +13,6 @@ ul {
     margin: 0px;
     padding-left: 15px;
 }
-
 
 a {
     text-decoration: none;
