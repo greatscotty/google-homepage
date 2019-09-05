@@ -1,11 +1,11 @@
 body, p {
     font-family: Arial, sans-serif;
     font-size: 13px;
+    color: black;
 }
 
 li {
     display: inline;
-    color: black;
 }
 
 ul {
