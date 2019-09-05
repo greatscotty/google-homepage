@@ -1,11 +1,20 @@
 ul {
     list-style-type: none;
     margin: 0px;
-    padding: 0px;
+    padding-left: 15px;
 }
 
 li a {
     display: inline;
     text-decoration: none;
     color: black;
+}
+
+a :hover{
+    text-decoration: underline;
+}
+
+body, p {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
 }
