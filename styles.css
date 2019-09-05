@@ -4,11 +4,30 @@
     color: black;
 }
 
+li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .center {
     text-align: center;
     }
 
-.topright {
+nav .topright {
     position: relative;
     text-align: right;
     align-items: center;
