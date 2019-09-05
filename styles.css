@@ -12,7 +12,6 @@ li{
 ul {
     list-style-type: none;
     margin: 0px;
-    padding-left: 15px;
 }
 
 a{
@@ -40,6 +39,7 @@ a:hover{
 }
 
 .hplogo{
+    padding-top: 192px;
     height: 92px;
     width: 272px;   
 }
