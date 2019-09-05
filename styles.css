@@ -21,3 +21,9 @@ a {
 a:hover{
     text-decoration: underline;
 }
+
+nav .topright {
+    position: relative;
+    text-align: right;
+    align-items: center;
+}
