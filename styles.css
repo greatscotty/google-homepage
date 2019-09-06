@@ -57,3 +57,12 @@ footer {
 main, header{
     background: #fff;
 }
+
+.main{
+    padding-bottom: 35px;
+}
+
+#additional-languages{
+    display: inline-block;
+    line-height: 28px;
+}
