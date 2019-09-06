@@ -40,7 +40,7 @@ a:hover{
 }
 
 .hplogo{
-    padding-top: 192px;
+    padding-top: 109px;
     height: 92px;
     width: 272px;   
 }
@@ -84,4 +84,8 @@ main, header{
 }
 #footer-side-right{
     float: right;
+}
+
+#logo{
+    margin: 89px;
 }
