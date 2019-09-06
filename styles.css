@@ -89,3 +89,7 @@ main, header{
 #logo{
     margin: 89px;
 }
+
+header{
+    margin-top: 16px;
+}
