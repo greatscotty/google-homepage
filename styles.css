@@ -52,6 +52,12 @@ a:hover{
 
 footer {
     background: rgb(228,228,228);
+    margin: 3px;
+    line-height: 40px;
+}
+
+footer.a {
+    padding-left: 27px;
 }
 
 main, header{
@@ -62,7 +68,11 @@ main, header{
     padding-bottom: 35px;
 }
 
-#additional-languages{
+#lang{
     display: inline-block;
     line-height: 28px;
+}
+
+#lang.a{
+    color: #1a0dab;
 }
