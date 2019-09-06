@@ -44,3 +44,9 @@ a:hover{
     width: 272px;   
 }
 
+.country{
+    background: rgba(0 , 0, 0, .54);
+    line-height: 40px;
+    display: inline;
+    text-align: left
+}
