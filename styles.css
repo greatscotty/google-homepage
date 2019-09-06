@@ -87,9 +87,16 @@ main, header{
 }
 
 #logo{
-    margin: 89px;
+    margin-top: 89px;
 }
 
 header{
     margin-top: 16px;
+}
+
+.searchbar{
+    line-height: 34px;
+    height: 34px;
+    margin-top: 37px;
+    font-size: 16px;
 }
